@@ -29,4 +29,4 @@ elif g == "2":
   if c == num:
     print(f"The position of {num} in the Fibonacci sequence is {position}")
   else:
-    print(f"{num} is not found in the Fibonacci sequence")
+    print(f"{num} not found in the Fibonacci sequence")
